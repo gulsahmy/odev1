@@ -1,0 +1,79 @@
+
+*{
+    
+    text-align: center;
+    margin: auto;
+}
+
+body{
+    margin: 100px;
+    padding: 5px;
+    border: 5px solid purple;
+    border-radius: 20px;
+    background-color: aqua;
+    text-align: center;
+}
+#tablo{
+    padding: 10px;
+}
+.none{
+    display: inline-block;
+    border-style: none;
+    border-color: white;
+    width: 80px;    
+}
+.dotted{
+    display: inline-block;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: gray;
+    width: 80px;    
+}
+.dashed{
+    display: inline-block;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: gray;
+    width: 80px;
+}
+.solid{
+    display: inline-block;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    width: 80px;
+}
+.double{
+    display: inline-block;
+    border: 5px double white;
+    width: 80px;
+}
+.groove{
+    display: inline-block;
+    border: 5px groove white;
+    width: 80px;
+}
+.ridge{
+    display: inline-block;
+    border: 5px ridge white;
+    width: 80px;
+}
+.inset{
+    display: inline-block;
+    border: 5px inset white;
+    width: 80px;
+}
+.outset{
+    display: inline-block;
+    border: 5px outset white;
+    width: 80px;
+}
+
+
+
+
+
+
+
+
+
